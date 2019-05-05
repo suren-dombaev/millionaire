@@ -1,0 +1,150 @@
+body {
+	background: black;
+	font-family: 'Roboto Slab', serif;
+}
+
+audio {
+	display: none;
+}
+
+.clear {
+	clear: both;
+}
+
+#game {
+	display: none;
+	text-align: center;
+}
+
+#top {
+	width: 960px;
+	margin: 0 auto;
+}
+
+#levels {
+	float: right;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	color: white;
+	text-align: right;
+	margin-top: 40px;
+	font-size: 1.1em;
+}
+
+.active {
+	color: green;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+#options {
+	width: 960px;
+	height: 70px;
+	margin: 0 auto;
+}
+
+#question-box {
+	background: #ddd;
+	width: 960px;
+	margin: 0 auto;
+	padding: 10px;
+	font-size: 1.4em;
+}
+
+.big-text {
+	color: #FF7E00;
+	font-size: 2em;
+	margin-right: 15px;
+}
+
+#money {
+	font-size: 1.9em;
+	font-weight: bold;
+	color: green;
+	float: right;
+	display: block;
+	height: 50px;
+	padding-top: 20px;
+}
+
+#logo {
+	width: 480px;
+	float: left;
+	margin-left: 240px;
+}
+
+#logo1 {
+	width: 480px;
+	float: left;
+}
+
+#game-over {
+	display: none;
+	font-size: 8em;
+	font-weight: bold;
+	color: white;
+	width: 980px;
+	margin-top: 300px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#fifty {
+	background: url('../img/50-50.png') no-repeat 0 0;
+}
+
+
+#audience {
+	background: url('../img/audience.png') no-repeat 0 0;
+}
+
+#answer-box {
+	color: white;
+	font-size: 1em;
+	text-align: left;
+	width: 960px;
+	margin: 0 auto;
+}
+
+#pre-start {
+	position: absolute;
+	margin-left: 33%;
+	display: table-cell;
+	vertical-align:middle;
+}
+
+#start {
+	font-size: 160%;
+    color: white;
+    border-radius: 4px;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+    background: rgb(66, 184, 221);
+    /* transform: translateY(50vh) translateX(50vw); */
+	margin-top: 370px;
+	margin-left: 135px;
+    width: 200px;
+    padding: 15px;
+	position: relative;
+}
+
+.answer:hover {
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+.options-button {
+	width: 64px;
+	height: 64px;
+	margin-left: 12px;
+	background-position: 0 0;
+	cursor: pointer;
+}
+
+.options-button:hover {
+	background-position: 0 -64px !important;
+}
+
+.options-wrapper {
+	margin-top: -40px;
+}
