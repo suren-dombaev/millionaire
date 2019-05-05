@@ -86,7 +86,7 @@ let questions = {
         
     ],
     medium: [
-        {         {
+        {         
             "question": "Ինչ ժանրի է պատկանում <Տժվժիկ> ֆիլմը?",
             "content": [
                 "Դրամա ",
