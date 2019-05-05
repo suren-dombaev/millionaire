@@ -1,163 +1,222 @@
 let questions = {
     extraEasy: [
         {
-            "question": "1?",
+            "question": "Նիկողոս աղան ում համար է գնում թոք?",
             "content": [
-                "5",
-                "4",
-                "Charades",
-                "Hopscotch"
-            ],
-            "correct": 0
-        },
-        {
-            "question": "hjgsdfjhgfsd?",
-            "content": [
-                "Tsdfdf",
-                "Vsdfdsf",
-                "Bass",
-                "Treble"
-            ],
-            "correct": 0
-        },
-        {
-            "question": "jhdfkjfd?",
-            "content": [
-                "Silver",
-                "Styrofoam",
-                "Butter",
-                "Gold"
-            ],
-            "correct": 3
-        }
-    ],
-    easy: [
-        {
-            "question": "Which state in the United States is largest by area?",
-            "content": [
-                "Alaska",
-                "California",
-                "Texas",
-                "Hawaii"
-            ],
-            "correct": 0
-        },
-        {
-            "question": "What is Aurora Borealis commonly known as?",
-            "content": [
-                "Fairy Dust",
-                "Northern Lights",
-                "Book of ages",
-                "a Game of Thrones main character"
+                "Իր կնոջ ",
+                "Ներսես աղբոր",
+                "Գյուղացիների",
+                "Իր և ընկերների"
             ],
             "correct": 1
         },
         {
-            "correct": 3,
+            "question": "8. <Հեղնար աղբյուր> ֆիլմում ինչ էր Հեղնարի ամուսնու անունը?",
             "content": [
-                "developed the telescope",
-                "discovered four satellites of Jupiter",
-                "discovered that the movement of pendulum produces a regular time measurement",
-                "All of the above"
+                "Մկրտիչ",
+                "Դավիթ",
+                "Արմեն ",
+                "Արման"
             ],
-            "question": "Galileo was an Italian astronomer who"
+            "correct": 0
         },
+        {
+            "question": "Ինչ էր Ձախորդ Փանոսի ունեցվածքը?",
+            "content": [
+                "մի լուծ եզ, մի սել ու մի կացին ",
+                "Մի կացին",
+                "Մի լուզ եզ",
+                "Ոչմիբան"
+            ],
+            "correct": 0
+        }
+         {
+            "question": "Ինչ է Քաջ Նազարի կնոջ անունը?",
+            "content": [
+                "Քնքուշ ",
+                "Գոհար ",
+                "Ուստիան ",
+                "Անի"
+            ],
+            "correct": 2
+        },
+         
+    ],
+    easy: [
+        {
+            "question": "<Տերն ու ծառան> ֆիլմում ինչ էր ծառայի եղբոր անունը?",
+            "content": [
+                "Մաթոս ",
+                "Սիմոն  ",
+                "Արթուր  ",
+                "Ներսես"
+            ],
+            "correct": 1
+        },
+         {
+            "question": "Որտեղ է տեղի ունենում <Պեպո> ֆիլմի գործողությունները?",
+            "content": [
+                "Կարս  ",
+                "Թիֆլիս ",
+                "Երևան",
+                "Բաքու "
+            ],
+            "correct": 1
+        },
+         {
+            "question": "Որտեղ է տեղի ունենում <Եռանկյունի> ֆիլմի գործողությունները?",
+            "content": [
+                "Թիֆլիս ",
+                "Լենինական ",
+                "Էրզրում ",
+                "Հայտնի չէ"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "3. Ում ոչխարն է կորում <Մենք ենք մեր սարերը> ֆիլմում?",
+            "content": [
+                "Զավենի ",
+                "Պավլենի ",
+                "Իշխանի ",
+                "Ռեվազի"
+            ],
+            "correct": 3
+        },
+        
     ],
     medium: [
-        {
-            "correct": 3,
+        {         {
+            "question": "Ինչ ժանրի է պատկանում <Տժվժիկ> ֆիլմը?",
             "content": [
-                "the infrared light kills bacteria in the body",
-                "resistance power increases",
-                "the pigment cells in the skin get stimulated and produce a healthy tan",
-                "the ultraviolet rays convert skin oil into Vitamin D"
+                "Դրամա ",
+                "Մելոդրամա  ",
+                "կինոկատակերգություն",
+                "Սարսափ"
             ],
-            "question": "Exposure to sunlight helps a person improve his health because"
+            "correct": 2
+        },
+         {
+            "question": "<Հեղնար աղբյուր> ֆիլմում քանի աղբյուր է ուզում կառուցել հերոսը ?",
+            "content": [
+                "39 ",
+                "40 ",
+                "50  ",
+                "51"
+            ],
+            "correct": 1
         },
         {
-            "correct": 0,
+            "question": "Ով է <Եռանկյունի> ֆիլմի ռեժիսորը?",
             "content": [
-                "a club or a local sport association for remarkable achievements",
-                "amateur athlete, not necessarily an Olympian",
-                "National Olympic Committee for outstanding work",
-                "None of the above"
+                "Աղասի Այվայզյան ",
+                "Հենրիկ Մալյան ",
+                "Էդուարդ Բաղդասարյան",
+                "Սերգեյ Իսրաելյան"
             ],
-            "question": "Sir Thomas Fearnley Cup is awarded to"
+            "correct": 1
         },
+        
         {
-            "correct": 1,
+            "question": "6. <Տժվժիկ> ֆիլմի սցենարը որ պատմվածքի հիման վրա է նկարահանված?",
             "content": [
-                "1968",
-                "1929",
-                "1901",
-                "1965"
+                "Ատրպետի  ",
+                "Նարեկի ",
+                "Գրիգորի ",
+                "Հրանտի"
             ],
-            "question": "Oscar Awards were instituted in"
+            "correct": 0
         },
     ],
     hard: [
-        {
-            "correct": 2,
+        
+    
+         {
+            "question": "<Եռանկյունի> ֆիլմում ով է խաղում ուստա Մուկուչի դերը?",
             "content": [
-                "1998",
-                "1989",
-                "1979",
-                "1800"
+                "Մհեր Մկրտչյան ",
+                "Սոս Սարգսյան  ",
+                "Արմեն Ջիգարխանյան",
+                "Զուրաբ Լապերաձե"
             ],
-            "question": "When did Margaret Thatcher became the first female Prime Minister of Britain?"
+            "correct": 2
+        },
+         {
+            "question": "Ով է դիմում միլիցիայի օգնությանը <Մենք ենք մեր սարերը> ֆիլմում?",
+            "content": [
+                "Ռեվազի կինը ",
+                "Իշխանի եղբայրը",
+                "Պավլենը",
+                "Զավենը"
+            ],
+            "correct": 0
         },
         {
-            "correct": 2,
+            "question": "Ուր է փախչում Նազարը վախից?",
             "content": [
-                "15th April",
-                "12th December",
-                "1st May",
-                "1st August"
+                "Հնդկաստան և Զորբարստան ",
+                "ԱՄՆ ",
+                "Կարս ",
+                "Լեննական"
             ],
-            "question": "When is the International Workers' Day?"
+            "correct": 0
         },
         {
-            "correct": 2,
+            "question": "Ով է <Մենք> ֆիլմի ռեժիսորը?",
             "content": [
-                "1962",
-                "1963",
-                "1964",
-                "1965"
+                "Ե.Կարավաև  ",
+                "Արտավազդ Փելեշյան  ",
+                "Լ.Պողոսյան  ",
+                "Կ.Մեսյան"
             ],
-            "question": "When did China test their first atomic device?"
+            "correct": 1
         },
     ],
     extraHard: [
-        {
-            "correct": 3,
+       
+         {
+            "question": "Երբ է նկարահանվել <Մենք ենք մեր սարերը> ֆիլմը ?",
             "content": [
-                "1904",
-                "1905",
-                "1908",
-                "1909"
+                "1970 ",
+                "1968",
+                "1969 ",
+                "1971"
             ],
-            "question": "When did Commander Robert Peary discover the North Pole?"
+            "correct": 2
+        },
+         {
+            "question": "Քանի գործողությունից է բաղկացաց <Պեպո> ֆիլմը?",
+            "content": [
+                " 2 ",
+                "3  ",
+                "4 ",
+                "1"
+            ],
+            "correct": 1
         },
         {
-            "correct": 0,
+            "question": "Ով է հանկարծակի գտնում բարաթը <Պեպո> ֆիլմում?",
             "content": [
-                "819/sq. km",
-                "602/sq. km",
-                "415/sq. km",
-                "500/sq. km"
+                " Երեխան  ",
+                "Պեպոն    ",
+                "Զիմզիմովը   ",
+                "Եվոանեն"
             ],
-            "question": "What is the population density of Kerala?"
+            "correct": 0
         },
         {
-            "correct": 1,
+            "question": "Որ ֆիլմն է եղել հայկական առաջին հնչյունային ֆիլմը?",
             "content": [
-                "4 km",
-                "25 km",
-                "500 m to 9 km",
-                "150 km"
+                " Եռանկյունի   ",
+                "Մենք      ",
+                "Մենք ենք մեր սարերը    ",
+                "Պեպո"
             ],
-            "question": "What is the range of missile 'Akash'?"
-        }
+            "correct": 3
+        },
+        
+
+       
     ]
 };
 
