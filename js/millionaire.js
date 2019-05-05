@@ -1,27 +1,27 @@
 let questions = {
     extraEasy: [
         {
-            "question": "In what children's game are participants chased by someone designated \"It\"?",
+            "question": "1?",
             "content": [
-                "Tag",
-                "Simon Says",
+                "5",
+                "4",
                 "Charades",
                 "Hopscotch"
             ],
             "correct": 0
         },
         {
-            "question": "On a radio, stations are changed by using what control?",
+            "question": "hjgsdfjhgfsd?",
             "content": [
-                "Tuning",
-                "Volume",
+                "Tsdfdf",
+                "Vsdfdsf",
                 "Bass",
                 "Treble"
             ],
             "correct": 0
         },
         {
-            "question": "Which material is most dense?",
+            "question": "jhdfkjfd?",
             "content": [
                 "Silver",
                 "Styrofoam",
