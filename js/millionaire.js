@@ -29,7 +29,7 @@ let questions = {
                 "Ոչմիբան"
             ],
             "correct": 0
-        }
+        },
          {
             "question": "Ինչ է Քաջ Նազարի կնոջ անունը?",
             "content": [
